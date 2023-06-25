@@ -1,0 +1,11 @@
+.vs/
+code/Backup/
+code/UpgradeLog.htm
+*/**/bin/
+*/**/obj/
+_ReSharper.Caches/
+*.suo
+/ClipboardDump/obj/
+/ClipboardDump/outputs/
+*.csproj.user
+packages/
