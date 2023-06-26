@@ -32,7 +32,7 @@ void Update()
 }
 ```
 
-4. For a quick health check
+3. For a quick health check
    
     3.1 Add an empty ```GameObject``` to the stage
 
@@ -46,7 +46,7 @@ void Update()
 
     3.6 You can change the values in the ```Matrix``` field online
 
-5. If you just need to use the decomposition of the matrix into components, then you can use the method:
+4. If you just need to use the decomposition of the matrix into components, then you can use the method:
    
 ```MatrixDecompositor.Result? MatrixDecompositor.Decompose(Matrix3x2 matrix)```
 
